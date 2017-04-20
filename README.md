@@ -2,7 +2,7 @@
 Free Open Source Footers:
 This repository contains a list of mobile-friendly footers that I designed.
 Feel free to upload more if you want to contribute to this repository.
-Fore each footer, please add a screenshot underneath.
+For each footer, please add a screenshot underneath.
 Each footer needs to have a separate folder.
 #  Footer 1 Screenshoot
 
