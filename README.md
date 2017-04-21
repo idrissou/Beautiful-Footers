@@ -1,3 +1,5 @@
+![Alt text](/images/footer.png?raw=true "Footer Number 1")
+
 # Beautiful-Footers
 Free Open Source Footers:
 This repository contains a list of mobile-friendly footers that I designed.
