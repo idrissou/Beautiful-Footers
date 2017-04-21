@@ -4,7 +4,6 @@ footer
 	display:flex;
 	width: 100%;
 	z-index:1;
-
 }
 
 footer > div
@@ -21,11 +20,11 @@ footer > div
 	height: 16px;
 	position: absolute;
 	left: 10%;
-    top: 10%;
+	top: 10%;
 	background-color:  #9cc31a;
-    border-radius: 5px;
-    text-align: center;
-    padding: 2px 15px;
+	border-radius: 5px;
+	text-align: center;
+	padding: 2px 15px;
 	color: white;
 	font-family: 'Open Sans', arial, sans-serif;
 	font-size: 12px;
@@ -55,7 +54,7 @@ footer > div
 	position: absolute;
 	height: 30%;
 	left: 10%;
-    top: 20%;
+   	top: 20%;
 	color: white;
 	font-family: 'Open Sans', arial, sans-serif;
 	font-size: 12px;
@@ -153,10 +152,6 @@ span
 .post_info > div
 {
 	margin-bottom: 10px;
-}
-.about_us
-{
-	
 }
 .second 
 {
