@@ -7,6 +7,7 @@ A live view of this footer can be accessed at: www.footer2.moroccantimes.com
 
 #  Footer 2: The Moroccan Times Footer:
 An example of this footer can be accessed at: www.themoroccantimes.com (the footer)
+
 ![Alt text](/screenshots/moroccantimes.png?raw=true "Footer Number 1")
 # To contribute:
 I encourage you to upload more footers to this repository if you want to contribute.
