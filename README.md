@@ -6,7 +6,7 @@ A live view of this footer can be accessed at the <a href="https://themoroccanti
 ![Alt text](/screenshots/sad_four_seasons.png?raw=true "Footer Number 1")
 
 #  Footer 2: The Moroccan Times Footer:
-An example of this footer can be accessed at: https://themoroccantimes.com (the footer)
+An example of this footer can be accessed at:<a href="https://themoroccantimes.com"> the Moroccan Times news website </a> (the footer)
 
 ![Alt text](/screenshots/moroccantimes.png?raw=true "Footer Number 1")
 # To contribute:
