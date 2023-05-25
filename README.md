@@ -1,7 +1,7 @@
 # Beautiful-Footers: Free Open Source Footers:
 This repository contains a list of mobile-friendly footers that I designed.
 #  Footer 1: "The Sad Four seasons footer"
-A live view of this footer can be accessed at: www.footer2.moroccantimes.com
+A live view of this footer can be accessed at the <a href="https://themoroccantimes.com"> following Morocco news website </a>
 
 ![Alt text](/screenshots/sad_four_seasons.png?raw=true "Footer Number 1")
 
